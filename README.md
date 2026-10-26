@@ -1,12 +1,3 @@
-# Postiz: the full source code
-
-I was the CMO at Postiz. This morning Nevo fired me.
-
-So here it is. The **entire** Postiz codebase. Every feature he charges you for. Scheduling to 30+ platforms, the AI agent, analytics, the lot.
-
-Free. Take it.
-
----
 
 ### How to run it
 
